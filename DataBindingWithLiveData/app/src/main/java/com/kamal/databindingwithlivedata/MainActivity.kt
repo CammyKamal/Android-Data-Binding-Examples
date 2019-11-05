@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         val viewModel = ViewModelProviders.of(this)[MainViewModel::class.java]
         viewModel.name = MutableLiveData()
         viewModel.name.value = "Value set inside OnCreate"
-        DataBindingUtil.setContentView<ActivityMainBinding>(this, R.layout.activity_main).also {
+        DataBindingUtil.setContentView(this, R.layout.activity_main).also {
             it.viewModel = viewModel
             it.lifecycleOwner = this
         }
