@@ -1,10 +1,10 @@
-package com.kamal.recyclerviewdatabindingexample
+package com.kamal.model
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProviders
-import com.kamal.recyclerviewdatabindingexample.databinding.ActivityMainBinding
+import com.kamal.model.databinding.ActivityMainBinding
 import com.kamal.ui.MyAdapterClass
 import kotlinx.android.synthetic.main.activity_main.*
 

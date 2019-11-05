@@ -2,9 +2,9 @@ package com.kamal.ui
 
 import android.util.Log
 import com.kamal.base.ClickCallback
-import com.kamal.recyclerviewdatabindingexample.DataClass
-import com.kamal.recyclerviewdatabindingexample.R
-import com.kamal.recyclerviewdatabindingexample.RecyclerBaseAdapterClass
+import com.kamal.model.DataClass
+import com.kamal.model.R
+import com.kamal.model.RecyclerBaseAdapterClass
 
 class MyAdapterClass(var data: List<DataClass>) : RecyclerBaseAdapterClass(), ClickCallback {
 

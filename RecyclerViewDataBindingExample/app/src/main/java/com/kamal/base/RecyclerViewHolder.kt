@@ -1,4 +1,4 @@
-package com.kamal.recyclerviewdatabindingexample
+package com.kamal.model
 
 import androidx.databinding.ViewDataBinding
 import androidx.recyclerview.widget.RecyclerView

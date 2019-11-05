@@ -1,4 +1,4 @@
-package com.kamal.recyclerviewdatabindingexample
+package com.kamal.model
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
