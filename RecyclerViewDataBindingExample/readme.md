@@ -1,5 +1,5 @@
 
-# DataBinding-With-ViewModel-And-RecyclerView
+# DataBinding-With-ViewModel-Using-Generic-Classes-To-Bind-RecyclerView-Adapters
 
 Project usage of data binding and ViewModel and contains generic classes for recyclerview Adatpers 
 
