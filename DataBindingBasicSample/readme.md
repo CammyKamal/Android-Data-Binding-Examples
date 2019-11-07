@@ -1,5 +1,5 @@
 
-# DataBindingBasicSample
+# Data-Binding-Basic-Sample
 Project Shows basic usage of data binding in layout with Data Model Object. 
 
 ###  Project Uses
