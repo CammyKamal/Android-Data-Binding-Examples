@@ -10,5 +10,5 @@ Project usage of data binding and ViewModel in layout with Change Listeners i.e.
 4. Android Studio 3.5
 
 ### Layout Design
-ViewModelis used with layout container to update Editext/checkbox with change Listeners.
+ViewModel is used with layout container to update Editext/checkbox with change Listeners.
 
